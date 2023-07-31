@@ -1,4 +1,5 @@
 ссылка на работу: https://h0lloway.github.io/ccs-test/
+ссылка на исходники: https://github.com/h0lloway/ccs-test-gulp
 
 1. Страница адаптивна;
 2. HTML код по методологии БЭМ;
